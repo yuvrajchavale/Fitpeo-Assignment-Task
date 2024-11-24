@@ -27,8 +27,8 @@ This repository contains a Selenium-based automation framework designed to test 
 ├── src
 │   ├── main
 │   │   ├── java
-│   │   │   ├── secondLogin
-│   │   │   │   └── RevenueCalculatorAutomation.java
+│   │   │   ├── testingTask
+│   │   │   │   └── Testcases.java
 ├── README.md
 ├── pom.xml (if Maven is used)
 ```
